@@ -1,0 +1,9 @@
+## Interface: 20501
+## Title: MjamsAutoLooter
+## Notes: Auto distributes loot.
+## Author: Mjam (EU - Mirage Raceway)
+## SavedVariables: MALDB
+## Version: 1.0
+
+embeds.xml
+core.lua
